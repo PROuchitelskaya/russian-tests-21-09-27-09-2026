@@ -5,7 +5,7 @@
   var DATA = window.TESTS_DATA;
   var STORE_KEY = DATA.meta.storeKey;
   var NAME_KEY = STORE_KEY + ":name";
-  var SITE_URL = "https://prouchitelskaya.github.io/russian-tests-07-09-13-09-2026/";
+  var SITE_URL = "https://prouchitelskaya.github.io/russian-tests-21-09-27-09-2026/";
   var LETTERS = ["А", "Б", "В", "Г", "Д", "Е", "Ж"];
 
   var $ = function (id) { return document.getElementById(id); };
